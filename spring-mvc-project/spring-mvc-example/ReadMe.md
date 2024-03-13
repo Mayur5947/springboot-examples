@@ -1,4 +1,4 @@
-# to-do application
+# spring-mvc-example
 
 ## How to build?
 ```
