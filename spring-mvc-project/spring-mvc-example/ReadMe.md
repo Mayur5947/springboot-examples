@@ -1,4 +1,4 @@
-# to-do application
+# spring-mvc-example
 
 ## How to build?
 ```
@@ -14,7 +14,7 @@ mvn spring-boot:run
 
 Pls invoke below url in browser:
 
-http://localhost:80801/to-do/home.jsp
+http://localhost:8081/spring-mvc-example/home.jsp
 
 Note: Pls dont run this application using just main() method,it may not work.  
 
